@@ -38,5 +38,3 @@ Wenn dem Programm Administrator die änderung gefällt kann er die Änderung in 
 \
 &nbsp;
 Kontrolliert am: _________________   Unterschrift  : ___________________________
-
----
