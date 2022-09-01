@@ -1,11 +1,11 @@
 ---
 title : Wochenbericht 
-subtitle: Wochenbericht KW 
+subtitle: Wochenbericht KW. 
 lang: de-DE
 
 ---
 
-## Wochenbericht KW . (KW dd-.ddmm.22)
+## Wochenbericht KW .  ( dd.- dd.mm.yyyy)
 ---
 
 &nbsp;
