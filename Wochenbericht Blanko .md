@@ -8,7 +8,8 @@ lang: de-DE
 
 ---
 
-## Wochenbericht KW .  ( dd.- dd.mm.yyyy)
+## Wochenbericht KW .  ( yyyy.mm.dd.- dd.)
+
 ---
 
 &nbsp;
