@@ -1,8 +1,9 @@
+#
+
 | Vorname | Nachname | Beruf | Dauer |
 |---|---|---|---|
 |Marten| Meißner|FachInoformatiker AE|07.22-07.24|
 ---
-
 
 ## Wochenbericht KW 38.  (2022.09.19.- 23.)
 
@@ -13,8 +14,9 @@ Letzte Woche haben wir fast alle Funktionen des Snackautomantens geschrieben, di
 Als die App an fing zu funktioniern habe ich mich an die nachbearbeitung der Startseite gemacht und dort kleinere fehler gefunden die wir nach verschieden tests aufspürten konnten und ausgebessert haben.
 
 Dazu haben wir in folgende Präsentation:
- - Riverpod und State Managment
- - Navigation zu anderen Seiten  
+
+- Riverpod und State Managment
+- Navigation zu anderen Seiten  
 
 näher kennengelernt.
 &nbsp;
@@ -46,6 +48,4 @@ näher kennengelernt.
 \
 \
 &nbsp;
-Kontrolliert am: _________________   Unterschrift  : ____________________
-
-
+Kontrolliert am: _________________Unterschrift  :____________________
