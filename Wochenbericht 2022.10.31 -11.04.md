@@ -15,7 +15,7 @@ Dafür schauten wir uns Videos an die, die Eigenschaften der Objektorientieren P
     - Kapselung (Encapsulation)
     - Abstraktions (Abstraction)
     - Vererbung (Inheritance)
-    - Polymophismus (Polymophis
+    - Polymophismus (Polymophis)
 
 Bei der Daten Entkapselung geht es um Daten die sinnvoll in Klassen und Objekten verbunden werden indem sie als Eigenschaft des Objekt bestimmt werden.
 Mit Abstraktion ist gemeint das Methoden (Funktion für die Klasse) für die Objekte und Klassen definiert werden damit ein Objekt nicht nur Eigenschaften sondern auf Funktionen wie ein Echtes Objekt zb. ein Fahrrad, dieses hat Zweir Räder und Pedale was Eigenschaften sind und mit der Methode "los_fahren()" kann der Fahrer auf die Pedale tretten und somit die Räder bewegen.
