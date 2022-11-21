@@ -5,7 +5,7 @@
 |Marten| Meißner|FachInoformatiker AE|07.22-07.24|
 ---
 
-## Wochenbericht KW .  ( yyyy.mm.dd.- dd.)
+## Wochenbericht KW .  (yyyy.mm.dd.- dd.)
 
 ---
 
@@ -35,4 +35,4 @@
 \
 \
 &nbsp;
-Kontrolliert am: _________________Unterschrift  :____________________
+Kontrolliert am: _________________ Unterschrift  :____________________
