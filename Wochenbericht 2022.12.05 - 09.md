@@ -5,7 +5,7 @@
 |Marten| Meißner|FachInoformatiker AE|07.22-07.24|
 ---
 
-## Wochenbericht KW .  (yyyy.mm.dd. - dd.)
+## Wochenbericht KW 49.  (2022.12.05. - 09.)
 
 ---
 
