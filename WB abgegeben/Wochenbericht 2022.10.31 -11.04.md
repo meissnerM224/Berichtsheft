@@ -35,7 +35,5 @@ Polymorphismus meint das ein Tandem Fahrrad eine Klasse Fahhrad enthalten kann u
 \
 \
 \
-\
-\
 &nbsp;
 Kontrolliert am: _________________  Unterschrift  :____________________
