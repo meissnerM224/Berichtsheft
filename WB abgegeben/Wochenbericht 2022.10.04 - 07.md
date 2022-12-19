@@ -2,7 +2,7 @@
 
 | Vorname | Nachname | Beruf | Dauer |
 |---|---|---|---|
-|Marten| Meißner|FachInoformatiker AE|07.22-07.24|
+|Marten| Meißner|Fachinformatiker AE|07.22-07.24|
 ---
 
 ## Wochenbericht 40 .  ( 2022.10.04.- 07.)

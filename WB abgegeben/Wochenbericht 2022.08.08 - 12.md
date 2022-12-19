@@ -55,4 +55,4 @@ Kontrolliert am: _________________   Unterschrift  : ____________________
 
 | Vorname | Nachname | Beruf | Dauer |
 |---|---|---|---|
-|Marten| Meißner|FachInoformatiker AE|07.22-07.24|
+|Marten| Meißner|Fachinformatiker AE|07.22-07.24|
