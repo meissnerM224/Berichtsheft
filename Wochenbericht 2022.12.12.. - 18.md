@@ -36,11 +36,5 @@ Dadurch fällt viel Entwicklungsarbeit weg was das Frontent mehr in den Vordergr
 \
 \
 \
-\
-\
-\
-\
-\
-\
 &nbsp;
 Kontrolliert am: _________________ Unterschrift  :____________________
