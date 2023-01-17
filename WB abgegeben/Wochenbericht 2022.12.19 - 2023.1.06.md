@@ -5,7 +5,7 @@
 |Marten| Meißner|Fachinformatiker AE|07.22-07.24|
 ---
 
-## Wochenbericht KW 51- 1 .  (2022.12.19. - 2023.01.04.)
+## Wochenbericht KW 51- 1 .  (2022.12.19. - 2023.01.06.)
 
 ---
 
