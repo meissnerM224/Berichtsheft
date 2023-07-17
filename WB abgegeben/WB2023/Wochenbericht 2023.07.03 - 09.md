@@ -31,7 +31,7 @@ Eine weitere Eigenschaft von versiegelten Klassen ist, dass es leichter ist unte
 \
 \
 \
-\\
+\
 \
 \
 \
