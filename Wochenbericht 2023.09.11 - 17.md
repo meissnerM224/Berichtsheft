@@ -8,7 +8,7 @@
 ## Wochenbericht KW 37.  (2023.09.11. - 17.)
 
 ---
-
+Notification Hardware Permisson
 &nbsp;
 \
 \
