@@ -8,6 +8,7 @@
 ## Wochenbericht KW 40.  (2023.10.02. - 08.)
 
 ---
+Urlaub
 
 &nbsp;
 \

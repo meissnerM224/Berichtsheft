@@ -8,7 +8,7 @@
 ## Wochenbericht KW 41.  (2023.10.09. - 15.)
 
 ---
-
+Urlaub
 &nbsp;
 \
 \
