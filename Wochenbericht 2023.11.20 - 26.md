@@ -8,7 +8,7 @@
 ## Wochenbericht KW 47.  (2023.11.20. - 26.)
 
 ---
-
+Integration in die App
 &nbsp;
 \
 \
