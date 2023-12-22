@@ -5,12 +5,12 @@
 | Marten  | Meißner  | Fachinformatiker AE | 07.22-07.24 |
 ---
 
-## Wochenbericht KW 52.  (2023.12.25. - 31.)
+## Wochenbericht KW 51. (2023.12.18. - 24.)
 
 ---
-Urlaub.
+Diese Woche war ich leider Krank.
+
 &nbsp;
-\
 \
 \
 \
