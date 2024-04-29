@@ -8,7 +8,7 @@
 ## Wochenbericht KW 17.  (2024.04.22. - 28.)
 
 ---
-
+Prüfungsvorbereitung, Abgabe Projet Dokumentation, 
 &nbsp;
 \
 \

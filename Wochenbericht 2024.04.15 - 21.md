@@ -8,7 +8,7 @@
 ## Wochenbericht KW 16.  (2024.04.15. - 21.)
 
 ---
-Beginn Pr+fungsvorbereitung
+Prüfungsvorbereitung
 &nbsp;
 \
 \
