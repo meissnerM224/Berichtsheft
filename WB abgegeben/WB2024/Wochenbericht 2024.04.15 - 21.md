@@ -5,11 +5,27 @@
 | Marten  | Meißner  | Fachinformatiker AE | 07.22-07.24 |
 ---
 
-## Wochenbericht KW 14.  (2024.04.01. - 07.)
+## Wochenbericht KW 16.  (2024.04.15. - 21.)
 
 ---
-Start Web App Handwerker App
+Prüfungsvorbereitung
 &nbsp;
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
 \
 \
 \
